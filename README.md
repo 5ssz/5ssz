@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 
+
+- **Aprender Java**
+- **Crear scripts**
+- **Conceptos básicos de redes**
 <!--
 **5ssz/5ssz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
